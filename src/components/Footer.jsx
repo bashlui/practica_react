@@ -7,7 +7,7 @@ const Footer = () => {
         <span>© {new Date().getFullYear()} Mi App React</span>
         <span className="footer-divider">|</span>
         <a
-          href="https://github.com/"
+          href="https://github.com/bashlui/practica_react"
           target="_blank"
           rel="noopener noreferrer"
           className="footer-link"
